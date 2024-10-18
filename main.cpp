@@ -3,33 +3,29 @@
 #define y second
 using namespace std;
 
-
-//test
-//
 struct PairHash {
     size_t operator()(const pair<int, int>& p) const {
         return hash<int>{}(p.first) ^ (hash<int>{}(p.second) << 1);
     }
 };
 
-unordered_map<pair<int,int>, pair<int,int>, PairHash> child; //cant be imagine parent[f] = f;
-                                                             //that will go forever 
-                                                            //it must be positioning parents
+unordered_map<pair<int,int>, pair<int,int>, PairHash> child; 
         
            //forth    right    left
 int   dx[] = {-1 ,      0,      0};
 int   dy[] = {0  ,      1,     -1};
 char dir[] = {'f',    'r',    'l'};
 
-map<int, vector<string>> mp;
+map<int, vector<string>> addDir;
 //IEHOVA
 set<char> letters = {'I', 'E', 'H', 'O', 'V', 'A'};
 
-//is there's any better way to do path compression ?
+//is there's any better way to do path coaddDirression ?
 //better than maping each neibour with its parent ?? 
 //somethign like vector ?? but how to exclude wrong paths ?
 
-//child-parent instead of parent-neibour ? avoid creating vector for backtracking paths.
+//child-parent instead of parent-neibour ? avoid creating vector for backtracking path
+//according to problem context child is safer to time.
 void dfs (pair<int,int> pos, int &n, int &m, vector<vector<char>> &grid) {
     for (int i = 0; i < 3; i++) {
         int xp = dx[i] + pos.x;
@@ -53,9 +49,7 @@ void dfs (pair<int,int> pos, int &n, int &m, vector<vector<char>> &grid) {
 
 }
 
-static int testCase = 1;
-
-void solve () {
+void solve (int testCase) {
 
 
     int n, m;
@@ -77,25 +71,22 @@ void solve () {
     pair<int,int> p = startPos;
     while ( p != endPos ) {
         p = child[p];
-        if      (grid[p.x][p.y] == 'f') mp[testCase].push_back("forth");
-        else if (grid[p.x][p.y] == 'r') mp[testCase].push_back("right");
-        else if (grid[p.x][p.y] == 'l') mp[testCase].push_back("left");
+        if      (grid[p.x][p.y] == 'f') addDir[testCase].push_back("forth");
+        else if (grid[p.x][p.y] == 'r') addDir[testCase].push_back("right");
+        else if (grid[p.x][p.y] == 'l') addDir[testCase].push_back("left");
     }
-    testCase++;
 }
 
 
-//fig not work
+
 int main() {
-//
 //    auto time1 = std::chrono::high_resolution_clock::now();
-
     int t; cin >> t;
-    while (t--) solve();
+    while (t--) solve(t);
 
-
+  //presentation error
     for (int i = 1; i <= testCase; i++) {
-        for (auto & direction : mp[i]) {
+        for (auto & direction : addDir[i]) {
            cout << direction << " "; 
         }
         cout << endl;

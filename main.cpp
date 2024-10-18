@@ -82,6 +82,8 @@ void solve () {
     testCase++;
 }
 
+
+//fig not work
 int main() {
 
     auto time1 = std::chrono::high_resolution_clock::now();

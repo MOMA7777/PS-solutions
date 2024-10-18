@@ -4,6 +4,8 @@
 using namespace std;
 
 
+//test
+//
 struct PairHash {
     size_t operator()(const pair<int, int>& p) const {
         return hash<int>{}(p.first) ^ (hash<int>{}(p.second) << 1);
@@ -85,8 +87,8 @@ void solve () {
 
 //fig not work
 int main() {
-
-    auto time1 = std::chrono::high_resolution_clock::now();
+//
+//    auto time1 = std::chrono::high_resolution_clock::now();
 
     int t; cin >> t;
     while (t--) solve();
@@ -99,9 +101,9 @@ int main() {
         cout << endl;
     } 
     
-    auto time2 = std::chrono::high_resolution_clock::now();
-    chrono::duration<double, milli> totallTime = time2 - time1;
-
-    cout << "\ntime : " << totallTime.count() << endl;
+//    auto time2 = std::chrono::high_resolution_clock::now();
+//    chrono::duration<double, milli> totallTime = time2 - time1;
+//
+//    cout << "\ntime : " << totallTime.count() << endl;
     return 0;
 }

@@ -1,3 +1,5 @@
+//https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=288
+
 #include <bits/stdc++.h>
 #define x first 
 #define y second

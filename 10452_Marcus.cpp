@@ -1,3 +1,5 @@
+//https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1393
+
 #include <iostream>
 using namespace std;
 

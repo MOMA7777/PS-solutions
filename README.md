@@ -6,4 +6,6 @@
 [*Permutation Game*](https://github.com/MOMA7777/PS-solutions/blob/main/Permutation_Game.cpp)  
 [*Andryusha and Socks*](https://github.com/MOMA7777/PS-solutions/blob/main/Andryusha_and_Socks.cpp)  
 [*Registration_System*](https://github.com/MOMA7777/PS-solutions/blob/main/Registration_System.cpp)  
-[*BattleShips*](https://github.com/MOMA7777/PS-solutions/blob/main/11953_Battleships.cpp)
+[*BattleShips*](https://github.com/MOMA7777/PS-solutions/blob/main/11953_Battleships.cpp)  
+[*Forming Teams*](https://github.com/MOMA7777/PS-solutions/blob/main/216B_Forming_Teams.cpp)
+

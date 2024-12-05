@@ -8,4 +8,4 @@
 7.[*Registration_System*](https://github.com/MOMA7777/PS-solutions/blob/main/Registration_System.cpp)  
 8.[*BattleShips*](https://github.com/MOMA7777/PS-solutions/blob/main/11953_Battleships.cpp)  
 9.[*Forming Teams*](https://github.com/MOMA7777/PS-solutions/blob/main/216B_Forming_Teams.cpp)
-
+10.[*Wasted Time*](https://github.com/MOMA7777/PS-solutions/blob/main/127A_Wasted_Time.cpp)

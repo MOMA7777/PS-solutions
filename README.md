@@ -7,7 +7,7 @@
 6.[*Andryusha and Socks*](https://github.com/MOMA7777/PS-solutions/blob/main/Andryusha_and_Socks.cpp)  
 7.[*Registration_System*](https://github.com/MOMA7777/PS-solutions/blob/main/Registration_System.cpp)  
 8.[*BattleShips*](https://github.com/MOMA7777/PS-solutions/blob/main/11953_Battleships.cpp)  
-9.[*Forming Teams*](https://github.com/MOMA7777/PS-solutions/blob/main/216B_Forming_Teams.cpp)
+9.[*Forming Teams*](https://github.com/MOMA7777/PS-solutions/blob/main/216B_Forming_Teams.cpp)  
 10.[*Wasted Time*](https://github.com/MOMA7777/PS-solutions/blob/main/127A_Wasted_Time.cpp)  
 11.[*Fanya and Fence*](https://github.com/MOMA7777/PS-solutions/blob/main/270A_Fancy_Fence.c)  
 12.[*Overlapping Rectangules*](https://github.com/MOMA7777/PS-solutions/blob/main/460_OverLapping_Rectangles.cpp)  

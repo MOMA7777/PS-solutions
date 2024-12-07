@@ -13,3 +13,4 @@
 12.[*Overlapping Rectangules*](https://github.com/MOMA7777/PS-solutions/blob/main/460_OverLapping_Rectangles.cpp)  
 
 13.[*Pouring Rain*](https://github.com/MOMA7777/PS-solutions/blob/main/667A_Pouring_Rain.cpp)  
+14.[*Fourth Point*](https://github.com/MOMA7777/PS-solutions/blob/main/10242_Fourth_Point.cpp)

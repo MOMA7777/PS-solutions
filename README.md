@@ -10,4 +10,5 @@
 9.[*Forming Teams*](https://github.com/MOMA7777/PS-solutions/blob/main/216B_Forming_Teams.cpp)  
 10.[*Wasted Time*](https://github.com/MOMA7777/PS-solutions/blob/main/127A_Wasted_Time.cpp)  
 11.[*Fanya and Fence*](https://github.com/MOMA7777/PS-solutions/blob/main/270A_Fancy_Fence.c)  
-12.[*Overlapping Rectangules*](https://github.com/MOMA7777/PS-solutions/blob/main/460_OverLapping_Rectangles.cpp)  
+12.[*Overlapping Rectangules*](https://github.com/MOMA7777/PS-solutions/blob/main/460_OverLapping_Rectangles.cpp) 
+13.[*Pouring Rain*](https://github.com/MOMA7777/PS-solutions/blob/main/667A_Pouring_Rain.cpp)  

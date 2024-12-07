@@ -10,6 +10,8 @@ typedef struct side {
     double y2;
 } side;
 
+// my solution exploit that its always second point of the first side = first point of the second side.
+//and replacing distances from the adjacent point.
 int main() {
 
     side s, m;

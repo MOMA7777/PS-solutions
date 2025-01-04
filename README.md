@@ -14,4 +14,5 @@
 
 13.[*Pouring Rain*](https://github.com/MOMA7777/PS-solutions/blob/main/667A_Pouring_Rain.cpp)  
 14.[*Fourth Point*](https://github.com/MOMA7777/PS-solutions/blob/main/10242_Fourth_Point.cpp)  
-15.[*The Play Chimp*](https://github.com/MOMA7777/PS-solutions/blob/main/10611_The_Playboy_Chimp.c)
+15.[*The Play Chimp*](https://github.com/MOMA7777/PS-solutions/blob/main/10611_The_Playboy_Chimp.c)  
+16.[*Burning Midnight Oil*](https://github.com/MOMA7777/PS-solutions/blob/main/165B_Burning_Midnight_Oil.cpp)

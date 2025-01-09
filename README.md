@@ -19,5 +19,8 @@
 17.[*BowWow and the Timetable*](https://github.com/MOMA7777/PS-solutions/blob/main/1204A_BowWow_and_the_Timetable.cpp)  
 18.[*Balanced Rating Changes*](https://github.com/MOMA7777/PS-solutions/blob/main/1237A_Balanced_Rating_Changes.c)  
 19.[*Raising Bactria*](https://github.com/MOMA7777/PS-solutions/blob/main/579A_Raising_Bacteria.c)  
-20.[*Agressive Cows*](https://github.com/MOMA7777/PS-solutions/blob/main/Aggressive_cows.cpp)
+20.[*Agressive Cows*](https://github.com/MOMA7777/PS-solutions/blob/main/Aggressive_cows.cpp)  
+21.[*IQ Test*](https://github.com/MOMA7777/PS-solutions/blob/main/287A_Iq_Test.cpp)  
+22.[*Yaroslav and Permutations*](https://github.com/MOMA7777/PS-solutions/blob/main/296A_Yaroslav_and_Permutations.c)  
+23.[*Snow Footprints*](https://github.com/MOMA7777/PS-solutions/blob/main/298A_Snow_Footprints.c)
 

@@ -23,7 +23,7 @@
 21.[*IQ Test*](https://github.com/MOMA7777/PS-solutions/blob/main/287A_Iq_Test.cpp)  
 22.[*Yaroslav and Permutations*](https://github.com/MOMA7777/PS-solutions/blob/main/296A_Yaroslav_and_Permutations.c)  
 23.[*Snow Footprints*](https://github.com/MOMA7777/PS-solutions/blob/main/298A_Snow_Footprints.c)   
-24.[*Help Vasilia the Wise 2*](https://github.com/MOMA7777/PS-solutions/blob/main/143A_Help_Vasilisa_the_Wise_2.cpp) 
+24.[*Help Vasilia the Wise 2*](https://github.com/MOMA7777/PS-solutions/blob/main/143A_Help_Vasilisa_the_Wise_2.cpp)   
 25.[*Mountain Scenery*](https://github.com/MOMA7777/PS-solutions/blob/main/218A_Mountain_Scenery.c)  
 26.[*Polo The Penguin and Segments*](https://github.com/MOMA7777/PS-solutions/blob/main/289A_Polo_the_Penguin_and_Segments.cpp)  
 27.[*Ksenia and Pan Scales*](https://github.com/MOMA7777/PS-solutions/blob/main/382A_Ksenia_and_Pan_Scales.cpp)  

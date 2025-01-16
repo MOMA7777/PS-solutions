@@ -1,3 +1,5 @@
+//problem link : https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://onlinejudge.org/index.php%3Foption%3Dcom_onlinejudge%26Itemid%3D8%26page%3Dshow_problem%26problem%3D1047&ved=2ahUKEwjQqbbGiPqKAxU5IUQIHUSSMHkQFnoECBIQAQ&usg=AOvVaw1A3B-_qQKLK2JncFoCF3zm
+
 #include <bits/stdc++.h>
 using namespace std;
 int main() {

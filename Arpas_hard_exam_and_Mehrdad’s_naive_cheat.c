@@ -1,3 +1,5 @@
+//problem link : https://codeforces.com/problemset/problem/742/A
+
 #include <stdio.h>
 #include <math.h>
 #define ll long long

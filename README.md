@@ -30,3 +30,12 @@
 28.[*Chewbacca and Number*](https://github.com/MOMA7777/PS-solutions/blob/main/514A_Chewba%D1%81ca_and_Number.cpp)  
 29.[*Alyona and Number*](https://github.com/MOMA7777/PS-solutions/blob/main/682A_Alyona_and_Numbers.cpp)  
 30.[*Launch of Collider*](https://github.com/MOMA7777/PS-solutions/blob/main/699A_Launch_of_Collider.c)  
+31.[*Dice Tower*](https://github.com/MOMA7777/PS-solutions/blob/main/Dice_Tower_225A.cpp)  
+32.[*CounterExample*](https://github.com/MOMA7777/PS-solutions/blob/main/CounterExample_483A.c)  
+33.[*Arpas Hard Exam and Hehradad's Naive Cheat*](https://github.com/MOMA7777/PS-solutions/blob/main/Arpas_hard_exam_and_Mehrdad%E2%80%99s_naive_cheat.c)  
+34.[*Light and More*](https://github.com/MOMA7777/PS-solutions/blob/main/Light_more_light.cpp)  
+35.[*Product*](https://github.com/MOMA7777/PS-solutions/blob/main/Product_10106.cpp)  
+36.[*Theatre Square*](https://github.com/MOMA7777/PS-solutions/blob/main/Theatre_Square.cpp)  
+37.[*Valera and X : solution 1*](https://github.com/MOMA7777/PS-solutions/blob/main/Valera_and_X_1.cpp)  
+38.[*Valera and X : solution 2*](https://github.com/MOMA7777/PS-solutions/blob/main/Valera_and_X_2.cpp)  
+

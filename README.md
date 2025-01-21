@@ -38,4 +38,6 @@
 36.[*Theatre Square*](https://github.com/MOMA7777/PS-solutions/blob/main/Theatre_Square.cpp)  
 37.[*Valera and X : solution 1*](https://github.com/MOMA7777/PS-solutions/blob/main/Valera_and_X_1.cpp)  
 38.[*Valera and X : solution 2*](https://github.com/MOMA7777/PS-solutions/blob/main/Valera_and_X_2.cpp)  
+39.[*Outstanding Impression*](https://github.com/MOMA7777/PS-solutions/blob/main/Outstanding_Impressionist_2053B.cpp)  
+40.[*Insane Problem*](https://github.com/MOMA7777/PS-solutions/blob/main/Insane_Problem_1.cpp)  
 

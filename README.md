@@ -42,5 +42,6 @@
 40.[*Insane Problem*](https://github.com/MOMA7777/PS-solutions/blob/main/Insane_Problem_1.cpp)  
 41.[*Counting Pairs*](https://github.com/MOMA7777/PS-solutions/blob/main/Counting_Pairs_2051D.cpp)  
 42.[*Digits*](https://github.com/MOMA7777/PS-solutions/blob/main/Digits_2043B.cpp)  
+43.[*Secret Box*](https://github.com/MOMA7777/PS-solutions/blob/main/Secret_Box_1985E.cpp)  
 
 

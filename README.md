@@ -40,4 +40,7 @@
 38.[*Valera and X : solution 2*](https://github.com/MOMA7777/PS-solutions/blob/main/Valera_and_X_2.cpp)  
 39.[*Outstanding Impression*](https://github.com/MOMA7777/PS-solutions/blob/main/Outstanding_Impressionist_2053B.cpp)  
 40.[*Insane Problem*](https://github.com/MOMA7777/PS-solutions/blob/main/Insane_Problem_1.cpp)  
+41.[*Counting Pairs*](https://github.com/MOMA7777/PS-solutions/blob/main/Counting_Pairs_2051D.cpp)  
+42.[*Digits*](https://github.com/MOMA7777/PS-solutions/blob/main/Digits_2043B.cpp)  
+
 

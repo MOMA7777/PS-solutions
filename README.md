@@ -42,5 +42,11 @@
 40.[*Insane Problem*](https://github.com/MOMA7777/PS-solutions/blob/main/Insane_Problem_1.cpp)  
 41.[*Counting Pairs*](https://github.com/MOMA7777/PS-solutions/blob/main/Counting_Pairs_2051D.cpp)  
 42.[*Digits*](https://github.com/MOMA7777/PS-solutions/blob/main/Digits_2043B.cpp)  
+43.[*Black Cells*](https://github.com/MOMA7777/PS-solutions/blob/main/Black_Cells.cpp)  
+44.[*Common Divisors*](https://github.com/MOMA7777/PS-solutions/blob/main/Common_Divisors.cpp)  
+45.[*Earning on Bets*](https://github.com/MOMA7777/PS-solutions/blob/main/Earning_on_Bets.cpp)  
+46.[*Shohag loves XOR*](https://github.com/MOMA7777/PS-solutions/blob/main/Shohag_Loves_XOR_Easy_Version.cpp)  
+[*Superultra Favorite Permutation*](https://github.com/MOMA7777/PS-solutions/blob/main/Superultra_Favorite_Permutation.c)  
+47.[*Two Divisors*](https://github.com/MOMA7777/PS-solutions/blob/main/Two_Divisors.cpp)  
 
 

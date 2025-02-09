@@ -48,5 +48,6 @@
 46.[*Shohag loves XOR*](https://github.com/MOMA7777/PS-solutions/blob/main/Shohag_Loves_XOR_Easy_Version.cpp)  
 [*Superultra Favorite Permutation*](https://github.com/MOMA7777/PS-solutions/blob/main/Superultra_Favorite_Permutation.c)  
 47.[*Two Divisors*](https://github.com/MOMA7777/PS-solutions/blob/main/Two_Divisors.cpp)  
+48.[**Linked List**](https://github.com/MOMA7777/PS-solutions/blob/main/linked_list.c)  
 
 

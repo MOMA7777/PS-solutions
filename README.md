@@ -49,5 +49,11 @@
 [*Superultra Favorite Permutation*](https://github.com/MOMA7777/PS-solutions/blob/main/Superultra_Favorite_Permutation.c)  
 47.[*Two Divisors*](https://github.com/MOMA7777/PS-solutions/blob/main/Two_Divisors.cpp)  
 48.[**Linked List**](https://github.com/MOMA7777/PS-solutions/blob/main/linked_list.c)  
+49.[*Odd Queries*](https://github.com/MOMA7777/PS-solutions/blob/main/Odd_Queries.cpp)  
+50.[*Remove_Duplicates_from_Sorted_List I*](https://github.com/MOMA7777/PS-solutions/blob/main/Remove_Duplicates_from_Sorted_List.c)  
+51.[*Remove_Duplicates_from_Sorted_List II*](https://github.com/MOMA7777/PS-solutions/blob/main/Remove_Duplicates_from_Sorted_List_II.c)  
+52.[*Sinking Ship*](https://github.com/MOMA7777/PS-solutions/blob/main/Sinking_Ship.cpp)  
+53.[*Sinking Ship II*](https://github.com/MOMA7777/PS-solutions/blob/main/Sinking_Ship_2.cpp)  
+54.[**Merging Sorted Intervals**](https://github.com/MOMA7777/PS-solutions/blob/main/merging_sorted_intervals.c)  
 
 

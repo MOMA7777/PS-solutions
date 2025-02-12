@@ -55,5 +55,8 @@
 52.[*Sinking Ship*](https://github.com/MOMA7777/PS-solutions/blob/main/Sinking_Ship.cpp)  
 53.[*Sinking Ship II*](https://github.com/MOMA7777/PS-solutions/blob/main/Sinking_Ship_2.cpp)  
 54.[**Merging Sorted Intervals**](https://github.com/MOMA7777/PS-solutions/blob/main/merging_sorted_intervals.c)  
+55.[*Intersection of Two Linked Lists*](https://github.com/MOMA7777/PS-solutions/blob/main/Intersection_of_Two_Linked_Lists.c)    
+56.[*Remove Duplicates from Sorted List II sol2*](https://github.com/MOMA7777/PS-solutions/blob/main/Remove_Duplicates_from_Sorted_List_II_sol2.c)    
+57.[*Swap node in pairs*](https://github.com/MOMA7777/PS-solutions/blob/main/Swap_Nodes_in_Pairs.c)  
 
 

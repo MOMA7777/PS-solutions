@@ -1,5 +1,4 @@
-# *Problems*
-1.[*Soldiers and Cards*](https://github.com/MOMA7777/PS-solutions/blob/main/546C_Soldier_and_Cards.cpp)  
+
 2.[*Marcus*](https://github.com/MOMA7777/PS-solutions/blob/main/10452_Marcus.cpp)  
 3.[*The Seasonal War*](https://github.com/MOMA7777/PS-solutions/blob/main/The_Seasonal_War.cpp)  
 4.[*Vanya and Fence*](https://github.com/MOMA7777/PS-solutions/blob/main/Vanya_and_Fence.cpp)  
@@ -58,5 +57,6 @@
 55.[*Intersection of Two Linked Lists*](https://github.com/MOMA7777/PS-solutions/blob/main/Intersection_of_Two_Linked_Lists.c)    
 56.[*Remove Duplicates from Sorted List II sol2*](https://github.com/MOMA7777/PS-solutions/blob/main/Remove_Duplicates_from_Sorted_List_II_sol2.c)    
 57.[*Swap node in pairs*](https://github.com/MOMA7777/PS-solutions/blob/main/Swap_Nodes_in_Pairs.c)  
-
-
+58.[*Remove Nth Node From End of List*](https://github.com/MOMA7777/PS-solutions/blob/main/Remove_Nth_Node_From_End_of_List.c)  
+59.[*Linked List Cycle*](https://github.com/MOMA7777/PS-solutions/blob/main/Linked_List_Cycle.c)  
+60.[*Linked List Cycle II*](https://github.com/MOMA7777/PS-solutions/blob/main/Linked_List_Cycle_II.c)   

@@ -3,6 +3,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
+/*
+ *  XOR swapping with double-skipping
+ *
+ * */
+
+
 node * swapPairs(node **head) {
     if (*head == NULL) return NULL;
 

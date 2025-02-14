@@ -45,7 +45,7 @@
 44.[*Common Divisors*](https://github.com/MOMA7777/PS-solutions/blob/main/Common_Divisors.cpp)  
 45.[*Earning on Bets*](https://github.com/MOMA7777/PS-solutions/blob/main/Earning_on_Bets.cpp)  
 46.[*Shohag loves XOR*](https://github.com/MOMA7777/PS-solutions/blob/main/Shohag_Loves_XOR_Easy_Version.cpp)  
-[*Superultra Favorite Permutation*](https://github.com/MOMA7777/PS-solutions/blob/main/Superultra_Favorite_Permutation.c)  
+46.[*Superultra Favorite Permutation*](https://github.com/MOMA7777/PS-solutions/blob/main/Superultra_Favorite_Permutation.c)  
 47.[*Two Divisors*](https://github.com/MOMA7777/PS-solutions/blob/main/Two_Divisors.cpp)  
 48.[**Linked List**](https://github.com/MOMA7777/PS-solutions/blob/main/linked_list.c)  
 49.[*Odd Queries*](https://github.com/MOMA7777/PS-solutions/blob/main/Odd_Queries.cpp)  

@@ -73,4 +73,13 @@
 71.[*Reverse Linked List I*](https://github.com/MOMA7777/PS-solutions/blob/main/Reverse_Linked_List.c)  
 72.[*Reverse Linked List II*](https://github.com/MOMA7777/PS-solutions/blob/main/Reverse_Linked_List_II.c)  
 73.[*Valid Parentheses*](https://github.com/MOMA7777/PS-solutions/blob/main/Valid_Parentheses.cpp)  
+74.[*Backspace String Compare*](https://github.com/MOMA7777/PS-solutions/blob/main/Backspace_String_Compare.cpp)  
+75.[*Baseball Game*](https://github.com/MOMA7777/PS-solutions/blob/main/Baseball_Game.cpp)  
+76.[*Evaluate Reverse Polish Notation*](https://github.com/MOMA7777/PS-solutions/blob/main/Evaluate_Reverse_Polish_Notation.cpp)  
+78.[*First Unique Character in a String*](https://github.com/MOMA7777/PS-solutions/blob/main/First_Unique_Character_in_a_String.cpp)  
+79.[*Next Greater Element I*](https://github.com/MOMA7777/PS-solutions/blob/main/Next_Greater_Element_I.cpp)  
+80.[*Number of Recent Calls*](https://github.com/MOMA7777/PS-solutions/blob/main/Number_of_Recent_Calls.cpp)  
+81.[*Number of Students Unable to Eat Lunch*](https://github.com/MOMA7777/PS-solutions/blob/main/Number_of_Students_Unable_to_Eat_Lunch.cpp)  
+82.[*Simplify Path*](https://github.com/MOMA7777/PS-solutions/blob/main/Simplify_Path.cpp)  
+
 

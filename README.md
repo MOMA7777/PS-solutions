@@ -81,5 +81,28 @@
 80.[*Number of Recent Calls*](https://github.com/MOMA7777/PS-solutions/blob/main/Number_of_Recent_Calls.cpp)  
 81.[*Number of Students Unable to Eat Lunch*](https://github.com/MOMA7777/PS-solutions/blob/main/Number_of_Students_Unable_to_Eat_Lunch.cpp)  
 82.[*Simplify Path*](https://github.com/MOMA7777/PS-solutions/blob/main/Simplify_Path.cpp)  
+Problem Solutions
+
+[ *Word Break* ](https://github.com/MOMA7777/PS-solutions/blob/main/Word_Break.cpp)  
+[ *Longest Consecutive Sequence* ](https://github.com/MOMA7777/PS-solutions/blob/main/Longest_Consecutive_Sequence.cpp)  
+[ *Group Anagrams* ](https://github.com/MOMA7777/PS-solutions/blob/main/Group_Anagrams.cpp)  
+[ *Ransom Note* ](https://github.com/MOMA7777/PS-solutions/blob/main/Ransom_Note.cpp)  
+[ *Word Pattern* ](https://github.com/MOMA7777/PS-solutions/blob/main/Word_Pattern.cpp)  
+[ *Missing Number* ](https://github.com/MOMA7777/PS-solutions/blob/main/Missing_Number.cpp)  
+[ *Longest Substring Without Repeating Characters* ](https://github.com/MOMA7777/PS-solutions/blob/main/Longest_Substring_Without_Repeating_Characters.cpp)  
+[ *Valid Anagram* ](https://github.com/MOMA7777/PS-solutions/blob/main/Valid_Anagram.cpp)  
+[ *Contains Duplicate II* ](https://github.com/MOMA7777/PS-solutions/blob/main/Contains_Duplicate_II.cpp)  
+[ *Contains Duplicate* ](https://github.com/MOMA7777/PS-solutions/blob/main/Contains_Duplicate.cpp)  
+[ *Isomorphic Strings* ](https://github.com/MOMA7777/PS-solutions/blob/main/Isomorphic_Strings.cpp)  
+[ *Happy Number* ](https://github.com/MOMA7777/PS-solutions/blob/main/Happy_Number.cpp)  
+[ *Majority Element* ](https://github.com/MOMA7777/PS-solutions/blob/main/Majority_Element.cpp)  
+[ *Count Prefix and Suffix Pairs I* ](https://github.com/MOMA7777/PS-solutions/blob/main/Count_Prefix_and_Suffix_Pairs_I.cpp)  
+[ *Dubstep-A* ](https://github.com/MOMA7777/PS-solutions/blob/main/Dubstep-A.cpp)  
+[ *Football-A* ](https://github.com/MOMA7777/PS-solutions/blob/main/Football-A.cpp)  
+[ *Valid Parentheses* ](https://github.com/MOMA7777/PS-solutions/blob/main/Valid_Parentheses.cpp)  
+[ *Final Prices With a Special Discount in a Shop* ](https://github.com/MOMA7777/PS-solutions/blob/main/Final_Prices_With_a_Special_Discount_in_a_Shop.cpp)  
+[ *Remove All Adjacent Duplicates In String* ](https://github.com/MOMA7777/PS-solutions/blob/main/Remove_All_Adjacent_Duplicates_In_String.cpp)  
+[ *Remove Outermost Parentheses* ](https://github.com/MOMA7777/PS-solutions/blob/main/Remove_Outermost_Parentheses.cpp)  
+[ *Evaluate Reverse Polish Notation* ](https://github.com/MOMA7777/PS-solutions/blob/main/Evaluate_Reverse_Polish_Notation.cpp)  
 
 
